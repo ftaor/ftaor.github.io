@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ftaor.github.io/Vns/sitemap.Vns.gz
